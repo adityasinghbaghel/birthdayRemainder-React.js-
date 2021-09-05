@@ -1,2 +1,2 @@
 # birthdayRemainder
-Web app made using react.js! .
+Web app made using react.js !
